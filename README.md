@@ -19,7 +19,13 @@ Eargasm is a sleek and responsive frontend music player built using HTML, CSS, a
 
 <a href="https://github.com/singhrohanjr01/EARGASM/blob/fcc6bd3468d0bb1574b7a70b7c58adae4d6ded1f/script.js">JS</a>
 ## 📸 Screenshots
+<a href="https://github.com/singhrohanjr01/EARGASM/blob/97190f39aaec7b1686c43f6eab0ce9582ebe1139/logo.png">Logo</a>
 
+<a href="https://github.com/singhrohanjr01/EARGASM/blob/97190f39aaec7b1686c43f6eab0ce9582ebe1139/Int1.png">Full View</a>
+
+<a href="https://github.com/singhrohanjr01/EARGASM/blob/97190f39aaec7b1686c43f6eab0ce9582ebe1139/Int3.png">Music List</a>
+
+<a href="https://github.com/singhrohanjr01/EARGASM/blob/97190f39aaec7b1686c43f6eab0ce9582ebe1139/Int4.png">Navigation Bar</a>
 ## 📂 Installation & Usage
 1.	Clone the repository: 
 2.	git clone https://github.com/singhrohanjr01/Eargasm.git
