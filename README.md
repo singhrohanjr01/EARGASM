@@ -1,6 +1,6 @@
 # EARGASM
 Eargasm is a sleek and responsive frontend music player built using HTML, CSS, and JavaScript. It offers an intuitive and engaging user experience with essential music playback features.
-##Features
+#Features
 •	🎶 Play/Pause Controls – Seamless music playback experience
 •	📂 Dynamic Playlist – Load and manage tracks dynamically
 •	⏳ Track Progress Bar – Visualize and navigate through song duration
